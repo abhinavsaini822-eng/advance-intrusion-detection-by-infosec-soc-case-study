@@ -38,7 +38,7 @@ Screenshots and supporting investigation evidence are available in this reposito
 
 ## Certificate
 Certificate of completion for the associated LinkedIn Learning course is included in this repository.
-[View Certificate](Certificate/A Standalone Hands on practice SOC project by infosec)
+[View Certificate](certificate/infosec-certificate)
 
 ## Final SOC Case Report
 The complete investigation findings, IOCs, behavioral analysis,
