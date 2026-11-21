@@ -39,5 +39,11 @@ Screenshots and supporting investigation evidence are available in this reposito
 ## Certificate
 Certificate of completion for the associated LinkedIn Learning course is included in this repository.
 
+## Final SOC Case Report
+The complete investigation findings, IOCs, behavioral analysis,
+SIEM investigation, and remediation steps are documented here.
+
+[View SOC Case Report](report/soc-case-report.md)
+
 ## Disclaimer
 This is a guided educational lab exercise. The scenario and investigation findings are based on the provided project materials, not a real-world incident response engagement.
