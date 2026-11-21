@@ -39,6 +39,10 @@ Multiple vendors classified the file as a Trojan, downloader, or malicious Micro
 
 The file was identified as a Microsoft Excel spreadsheet associated with TrickBot.
 
+It's other hash formats after MD5
+- SHA-1: `b9a0d6ff9a77fc9b223abe2c560a7e888026e3bb`
+- SHA-256: `1df473992bd7c161fc1964c5d895f16240b417005fc69d20d3b9013c6c18dee8`
+
 ### 3.3 Behavioral Analysis
 
 VirusTotal sandbox analysis revealed several suspicious activities:
