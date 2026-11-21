@@ -6,7 +6,6 @@ A practical SOC investigation case study based on the **Advanced Intrusion Detec
 This project focuses on investigating a critical antivirus alert involving a malicious Microsoft Excel spreadsheet associated with TrickBot. The investigation covers malware identification, file behavior analysis, suspicious process execution, network activity, and SIEM-based threat hunting.
 
 ## Tools & Technologies
-- **Cisco AMP** – Initial endpoint security alert
 - **VirusTotal** – Malware identification and behavioral analysis
 - **SIEM** – Hash-based investigation and endpoint scope assessment
 
@@ -21,6 +20,7 @@ This project focuses on investigating a critical antivirus alert involving a mal
 
 ## Key Findings
 - File type: Microsoft Excel Spreadsheet (`.xls`)
+- Its other hash formats such as SHA-1, SHA-256, Vhash
 - Malware classification: TrickBot-associated Trojan
 - Process identified: `rundll32.exe`
 - SIEM investigation: No additional endpoints identified using the file's MD5 hash.
